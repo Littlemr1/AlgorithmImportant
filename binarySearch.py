@@ -3,7 +3,7 @@ def binary_search(arr, low, high, x):
 """
 Binary Search recursivo
 """
-
+asaz
     if high >= low:
  
         mid = (high + low) // 2
